@@ -9,7 +9,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text>David Alejandro Bautista Ramos</Text>
+      <Text>Anyi Catalina Cardenas Velasques</Text>
     </View>
   );
 }
